@@ -1,0 +1,7 @@
+body  {
+  background-image: url("https://wallpaperaccess.com/full/2797527.jpg");
+  background-size: 1800% 1800%;
+  background-attachment: fixed;
+  background-size: cover;
+  range :id="home" src="img_trans. gif"
+  }
